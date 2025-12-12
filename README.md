@@ -7,20 +7,30 @@ Popular, Upcoming, and Top Rated movie sections
 Smooth horizontal scrolling
 Clickable movie posters
 Auto-fetching via TMDB API
+
+
 🔍 Search Screen
 Real-time movie search
 Clean UI with scroll support
 Movie results open detailed pages
+
+
 🧭 Explore Screen
 List of all movie genres
 Modern UI buttons
 Each genre navigates to a dedicated movie grid
+
+
 🗂️ Genres Screen
 Displays movies filtered by selected genre
+
+
 Responsive layout:
 3-column grid on wide screens (MacBook, Web)
 2-column grid on mobile
 Fully clickable posters
+
+
 # 🎥 Movie Details Page
 High-quality poster
 Movie overview
