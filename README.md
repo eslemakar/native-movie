@@ -47,6 +47,7 @@ Android
 Web
 
 # GIF
-![ezgif-6ce963018a3acf53](https://github.com/user-attachments/assets/85af7548-ea73-4df5-8fb6-675136b9f34b)
+![ezgif-65ce54858a47707f](https://github.com/user-attachments/assets/663c8392-9669-48d0-bb31-331d5fdf6e54)
+
 
 
