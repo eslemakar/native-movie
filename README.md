@@ -46,6 +46,10 @@ iOS
 Android
 Web
 
+# Design
+<img width="1440" height="900" alt="Screenshot 2025-12-13 at 00 22 38" src="https://github.com/user-attachments/assets/5a2f3ada-b3ca-47e1-82f4-6f68f6537de4" />
+
+
 # GIF
 ![ezgif-65ce54858a47707f](https://github.com/user-attachments/assets/663c8392-9669-48d0-bb31-331d5fdf6e54)
 
